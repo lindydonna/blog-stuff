@@ -51,7 +51,7 @@ First we'll create a Pulumi project and add code for both the infrastructure def
 1. To create a new Pulumi project, run the following command:
 
   ```
-  pulumi new javascript --dir hello-http
+  pulumi new aws-javascript --dir hello-http
   ```
 
   This creates a new project in the directory `hello-http`, so change to that directory:
